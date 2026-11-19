@@ -6,3 +6,4 @@ fifth line
 line A
 line B
 line A
+line B
