@@ -4,3 +4,4 @@ third line
 fourth line
 fifth line
 line A
+line B
