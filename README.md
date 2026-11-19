@@ -1,5 +1,7 @@
 Hello, Hexlet!
 second line
+Hello, Hexlet!
+second line
 third line
 fourth line
 fifth line
