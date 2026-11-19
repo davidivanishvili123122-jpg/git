@@ -1,2 +1,0 @@
-Hello, Hexlet!
-second line
