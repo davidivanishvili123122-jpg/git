@@ -7,3 +7,4 @@ line A
 line B
 line A
 line B
+line A
